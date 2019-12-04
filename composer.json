@@ -1,0 +1,11 @@
+{
+    "name": "myvendor/texteditor",
+    "description": "A Laravel Package for editing",
+    "authors": [
+        {
+            "name": "Aiswarya",
+            "email": "aiswaryapulloor@gmail.com"
+        }
+    ],
+    "require": {}
+}
